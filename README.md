@@ -1,6 +1,6 @@
 # sugoi-nuke
 
-Nuke
+とにかく速さを求めたnuke
 
 ## 機能
 - **Nuke**: `!r` で起動
