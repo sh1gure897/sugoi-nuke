@@ -1,0 +1,13 @@
+{
+  "token": "BOT_TOKEN",
+  "trigger": "!r",
+  "banTrigger": "!ban",
+  "serverName": "name",
+  "webhookName": "name",
+  "setup": {
+    "channelName": "name",
+    "channelCount": 25,
+    "messageContent": "@everyone anal lol",
+    "messageCount": 15
+  }
+}
