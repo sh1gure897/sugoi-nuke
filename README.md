@@ -1,4 +1,4 @@
-# sugoi-nuke(編集中)
+# sugoi-nuke(編集中)※復旧中
 
 とにかく速さを求めたnuke
 
